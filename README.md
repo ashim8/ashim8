@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashim8
+- 👋 Hi, I’m Ashim Shil
 - 👀 I’m interested in Front End Stack
 - 🌱 I’m currently learning and exploring JavaScript
 - 💞️ I’m looking to collaborate on JavaScript
-- 📫 How to reach me @ashimshilcse31@gmail.com
+- 📫 How to reach me ashimshilcse31@gmail.com
 
 <!---
 ashim8/ashim8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
